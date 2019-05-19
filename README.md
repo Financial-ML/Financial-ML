@@ -1,6 +1,6 @@
 # Financial-ML
 Description about our organization Financial-ML
 
-## How we are
+## About us 
 
-## What we do
+## Vision
