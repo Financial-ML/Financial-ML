@@ -6,6 +6,8 @@ Financial Machine Learning is a Financial organization that provide many Financi
 ## About us 
 ### How we are
 A financial organization that specialize in analysis financial markets using Artificial Intelligence.
+
+![](fml.png)
 ### What we do
 
 ### What we offer
