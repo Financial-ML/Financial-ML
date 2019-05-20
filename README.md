@@ -5,7 +5,9 @@ Description about our organization Financial-ML
 Financial Machine Learning is a Financial organization that provide many Financial and Artificial Intelligence services.
 ## About us 
 ### How we are
+A financial organization that specialize in analysis financial markets using Artificial Intelligence.
 ### What we do
+
 ### What we offer
 ## Vision
 1. Provide a good prediction for Forex and Stock markets.
